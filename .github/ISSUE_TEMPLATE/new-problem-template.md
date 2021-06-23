@@ -3,7 +3,7 @@ name: New Problem Template
 about: Suggest new problem
 title: "[#no]"
 labels: ''
-assignees: ''
+assignees: sangki930, rolypolyvg295, wjdgns7712, yskim1014
 
 ---
 
