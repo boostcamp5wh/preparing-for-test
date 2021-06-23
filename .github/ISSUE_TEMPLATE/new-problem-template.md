@@ -1,7 +1,7 @@
 ---
 name: New Problem Template
 about: Suggest new problem
-title: "[#no]"
+title: "[#번호] 문제이름"
 labels: ''
 assignees: sangki930, rolypolyvg295, wjdgns7712, yskim1014
 
