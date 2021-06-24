@@ -6,7 +6,7 @@ Repo about preparing for Coding test
 |No.|Problem|Level|Solution|Category|
 |:---|:---|:---:|:---:|:---:|
 |1|[ATM](https://www.acmicpc.net/problem/11399)|S3|[here](./1)|unknown|
-|2|[구슬탈출2](https://www.acmicpc.net/problem/13460)|G2|[here](./2)|unknown|
+|2|[시험감독](https://www.acmicpc.net/problem/13458)|B2|[here](./2)|unknown|
 |3|[-](link)|-|[here](./3)|unknown|
 |4|[-](link)|-|[here](./4)|unknown|
 |5|[-](link)|-|[here](./5)|unknown|
