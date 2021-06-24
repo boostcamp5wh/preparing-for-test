@@ -9,16 +9,17 @@ Repo about preparing for Coding test
 |2|[시험감독](https://www.acmicpc.net/problem/13458)|B2|[here](./2)|unknown|
 |3|[퇴사](https://www.acmicpc.net/problem/14501)|S4|[here](./3)|unknown|
 |4|[스타트와 링크](https://www.acmicpc.net/problem/14889)|S3|[here](./4)|unknown|
-|5|[-](link)|-|[here](./5)|unknown|
-|6|[-](link)|-|[here](./6)|unknown|
-|7|[-](link)|-|[here](./7)|unknown|
-|8|[-](link)|-|[here](./8)|unknown|
-|9|[-](link)|-|[here](./9)|unknown|
-|10|[-](link)|-|[here](./10)|unknown|
-|11|[-](link)|-|[here](./11)|unknown|
-|12|[-](link)|-|[here](./12)|unknown|
-|13|[-](link)|-|[here](./13)|unknown|
-|14|[-](link)|-|[here](./14)|unknown|
+|5|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|S1|[here](./5)|unknown|
+|6|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|S1|[here](./6)|unknown|
+|7|[상어 초등학교](https://www.acmicpc.net/problem/21608)|S1|[here](./7)|unknown|
+|8|[뱀](https://www.acmicpc.net/problem/3190)|G5|[here](./8)|unknown|
+|9|[주사위 굴리기](https://www.acmicpc.net/problem/14499)|G5|[here](./9)|unknown|
+|10|[테트로미노](https://www.acmicpc.net/problem/14500)|G5|[here](./10)|unknown|
+|11|[연구소](https://www.acmicpc.net/problem/14502)|G5|[here](./11)|unknown|
+|12|[로봇 청소기](https://www.acmicpc.net/problem/14503)|G5|[here](./12)|unknown|
+|13|[톱니바퀴](https://www.acmicpc.net/problem/14891)|G5|[here](./13)|unknown|
+|14|[감시](https://www.acmicpc.net/problem/15683)|G5|[here](./14)|unknown|
+|15|[-](link)|-|[here](./15)|unknown|
 
 
 ## 👪 Contributor
