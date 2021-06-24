@@ -7,8 +7,8 @@ Repo about preparing for Coding test
 |:---|:---|:---:|:---:|:---:|
 |1|[ATM](https://www.acmicpc.net/problem/11399)|S3|[here](./1)|unknown|
 |2|[시험감독](https://www.acmicpc.net/problem/13458)|B2|[here](./2)|unknown|
-|3|[-](link)|-|[here](./3)|unknown|
-|4|[-](link)|-|[here](./4)|unknown|
+|3|[퇴사](https://www.acmicpc.net/problem/14501)|S4|[here](./3)|unknown|
+|4|[스타트와 링크](https://www.acmicpc.net/problem/14889)|S3|[here](./4)|unknown|
 |5|[-](link)|-|[here](./5)|unknown|
 |6|[-](link)|-|[here](./6)|unknown|
 |7|[-](link)|-|[here](./7)|unknown|
