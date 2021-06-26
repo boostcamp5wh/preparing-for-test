@@ -7,7 +7,7 @@ Repo about preparing for Coding test
 |:---|:---|:---:|:---:|:---:|
 |1|[ATM](https://www.acmicpc.net/problem/11399)|S3|[here](./1)|unknown|
 |2|[시험감독](https://www.acmicpc.net/problem/13458)|B2|[here](./2)|unknown|
-|3|[퇴사](https://www.acmicpc.net/problem/14501)|S4|[here](./3)|unknown|
+|3|[퇴사](https://www.acmicpc.net/problem/14501)|S4|[here](./3)|DP|
 |4|[스타트와 링크](https://www.acmicpc.net/problem/14889)|S3|[here](./4)|unknown|
 |5|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|S1|[here](./5)|unknown|
 |6|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|S1|[here](./6)|unknown|
