@@ -13,13 +13,13 @@ Repo about preparing for Coding test
 |6|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|S1|[here](./6)|Implementation|
 |7|[상어 초등학교](https://www.acmicpc.net/problem/21608)|S1|[here](./7)|Implementation|
 |8|[뱀](https://www.acmicpc.net/problem/3190)|G5|[here](./8)|Implementation|
-|9|[주사위 굴리기](https://www.acmicpc.net/problem/14499)|G5|[here](./9)|unknown|
-|10|[테트로미노](https://www.acmicpc.net/problem/14500)|G5|[here](./10)|unknown|
-|11|[연구소](https://www.acmicpc.net/problem/14502)|G5|[here](./11)|unknown|
-|12|[로봇 청소기](https://www.acmicpc.net/problem/14503)|G5|[here](./12)|unknown|
-|13|[톱니바퀴](https://www.acmicpc.net/problem/14891)|G5|[here](./13)|unknown|
-|14|[감시](https://www.acmicpc.net/problem/15683)|G5|[here](./14)|unknown|
-|15|[치킨 배달](https://www.acmicpc.net/problem/15686)|G5|[here](./15)|unknown|
+|9|[주사위 굴리기](https://www.acmicpc.net/problem/14499)|G5|[here](./9)|Implementation|
+|10|[테트로미노](https://www.acmicpc.net/problem/14500)|G5|[here](./10)|Implementation|
+|11|[연구소](https://www.acmicpc.net/problem/14502)|G5|[here](./11)|BFS|
+|12|[로봇 청소기](https://www.acmicpc.net/problem/14503)|G5|[here](./12)|Implementation|
+|13|[톱니바퀴](https://www.acmicpc.net/problem/14891)|G5|[here](./13)|Implementation|
+|14|[감시](https://www.acmicpc.net/problem/15683)|G5|[here](./14)|Implementation|
+|15|[치킨 배달](https://www.acmicpc.net/problem/15686)|G5|[here](./15)|Implementation|
 |16|[인구 이동](https://www.acmicpc.net/problem/16234)|G5|[here](./16)|unknown|
 |17|[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|G5|[here](./17)|unknown|
 |18|[마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)|G5|[here](./18)|unknown|
