@@ -28,11 +28,6 @@ def move_tail(Q, board):
     i, j = Q.pop(0)
     board[i][j]=0
 
-def pp(board):
-    print()
-    for i in range(len(board)):
-        print(' '.join(map(str, board[i])))
-
 time = 0
 head = [1, 1]
 D = 6 # U2 L4 R6 D8
