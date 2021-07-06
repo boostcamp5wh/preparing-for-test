@@ -18,7 +18,7 @@ Repo about preparing for Coding test
 |11|[연구소](https://www.acmicpc.net/problem/14502)|G5|[here](./11)|BFS|
 |12|[로봇 청소기](https://www.acmicpc.net/problem/14503)|G5|[here](./12)|Implementation|
 |13|[톱니바퀴](https://www.acmicpc.net/problem/14891)|G5|[here](./13)|Implementation|
-|14|[마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)|G4|[here](./14)|unknown|
+|14|[마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)|G4|[here](./14)|Implementation|
 |30|[-](link)|-|[here](./30)|unknown|
 
 
