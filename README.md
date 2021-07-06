@@ -18,22 +18,7 @@ Repo about preparing for Coding test
 |11|[연구소](https://www.acmicpc.net/problem/14502)|G5|[here](./11)|BFS|
 |12|[로봇 청소기](https://www.acmicpc.net/problem/14503)|G5|[here](./12)|Implementation|
 |13|[톱니바퀴](https://www.acmicpc.net/problem/14891)|G5|[here](./13)|Implementation|
-|14|[감시](https://www.acmicpc.net/problem/15683)|G5|[here](./14)|Implementation|
-|15|[치킨 배달](https://www.acmicpc.net/problem/15686)|G5|[here](./15)|Implementation|
-|16|[인구 이동](https://www.acmicpc.net/problem/16234)|G5|[here](./16)|unknown|
-|17|[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|G5|[here](./17)|unknown|
-|18|[마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)|G5|[here](./18)|unknown|
-|19|[마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)|G5|[here](./19)|unknown|
-|20|[사다리 조작](https://www.acmicpc.net/problem/15684)|G4|[here](./20)|unknown|
-|21|[드래곤 커브](https://www.acmicpc.net/problem/15685)|G4|[here](./21)|unknown|
-|22|[나무 재테크](https://www.acmicpc.net/problem/16235)|G4|[here](./22)|unknown|
-|23|[아기 상어](https://www.acmicpc.net/problem/16236)|G4|[here](./23)|unknown|
-|24|[이차원 배열과 연산](https://www.acmicpc.net/problem/17140)|G4|[here](./24)|unknown|
-|25|[연구소 3](https://www.acmicpc.net/problem/17142)|G4|[here](./25)|unknown|
-|26|[게리맨더링 2](https://www.acmicpc.net/problem/17779)|G4|[here](./26)|unknown|
-|27|[스타트 택시](https://www.acmicpc.net/problem/19238)|G4|[here](./27)|unknown|
-|28|[마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)|G4|[here](./28)|unknown|
-|29|[마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)|G4|[here](./29)|unknown|
+|14|[마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)|G4|[here](./14)|unknown|
 |30|[-](link)|-|[here](./30)|unknown|
 
 
