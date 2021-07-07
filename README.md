@@ -7,30 +7,36 @@ Repo about preparing for Coding test
 
 |No.|Problem|Level|Solution|Category|
 |:---|:---|:---:|:---:|:---:|
-|1|[ATM](https://www.acmicpc.net/problem/11399)|S3|[here](./1)|Greedy|
-|2|[시험감독](https://www.acmicpc.net/problem/13458)|B2|[here](./2)|Mathematics|
-|3|[퇴사](https://www.acmicpc.net/problem/14501)|S4|[here](./3)|DP|
-|4|[스타트와 링크](https://www.acmicpc.net/problem/14889)|S3|[here](./4)|Brute Force|
-|5|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|S1|[here](./5)|Brute Force|
-|6|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|S1|[here](./6)|Implementation|
-|7|[상어 초등학교](https://www.acmicpc.net/problem/21608)|S1|[here](./7)|Implementation|
-|8|[뱀](https://www.acmicpc.net/problem/3190)|G5|[here](./8)|Implementation|
-|9|[주사위 굴리기](https://www.acmicpc.net/problem/14499)|G5|[here](./9)|Implementation|
-|10|[테트로미노](https://www.acmicpc.net/problem/14500)|G5|[here](./10)|Implementation|
-|11|[연구소](https://www.acmicpc.net/problem/14502)|G5|[here](./11)|BFS|
-|12|[로봇 청소기](https://www.acmicpc.net/problem/14503)|G5|[here](./12)|Implementation|
-|13|[톱니바퀴](https://www.acmicpc.net/problem/14891)|G5|[here](./13)|Implementation|
-|14|[마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)|G4|[here](./14)|Implementation|
+|1|[ATM](https://www.acmicpc.net/problem/11399)|S3|[here](./solution/1)|Greedy|
+|2|[시험감독](https://www.acmicpc.net/problem/13458)|B2|[here](./solution/2)|Mathematics|
+|3|[퇴사](https://www.acmicpc.net/problem/14501)|S4|[here](./solution/3)|DP|
+|4|[스타트와 링크](https://www.acmicpc.net/problem/14889)|S3|[here](./solution/4)|Brute Force|
+|5|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|S1|[here](./solution/5)|Brute Force|
+|6|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|S1|[here](./solution/6)|Implementation|
+|7|[상어 초등학교](https://www.acmicpc.net/problem/21608)|S1|[here](./solution/7)|Implementation|
+|8|[뱀](https://www.acmicpc.net/problem/3190)|G5|[here](./solution/8)|Implementation|
+|9|[주사위 굴리기](https://www.acmicpc.net/problem/14499)|G5|[here](./solution/9)|Implementation|
+|10|[테트로미노](https://www.acmicpc.net/problem/14500)|G5|[here](./solution/10)|Implementation|
+|11|[연구소](https://www.acmicpc.net/problem/14502)|G5|[here](./solution/11)|BFS|
+|12|[로봇 청소기](https://www.acmicpc.net/problem/14503)|G5|[here](./solution/12)|Implementation|
+|13|[톱니바퀴](https://www.acmicpc.net/problem/14891)|G5|[here](./solution/13)|Implementation|
+|14|[마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)|G4|[here](./solution/14)|Implementation|
 
 > Programmers
 
 |No.|Problem|Level|Solution|Category|
 |:---|:---|:---:|:---:|:---:|
-|1|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|L2|[here](./15)|unknown|
-|2|[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|L2|[here](./16)|unknown|
-|3|[합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)|L3|[here](./17)|unknown|
-|4|[광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)|L3|[here](./18)|unknown|
-|4|[-](link)|-|[here](./19)|unknown|
+|15|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|L2|[here](./solution/15)|Brute Force|
+|16|[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|L2|[here](./solution/16)|unknown|
+|17|[합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)|L3|[here](./solution/17)|unknown|
+|18|[광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)|L3|[here](./solution/18)|unknown|
+|19|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|L2|[here](./solution/19)|unknown|
+|20|[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|L2|[here](./solution/20)|unknown|
+|21|[자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)|L3|[here](./solution/21)|unknown|
+|22|[기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)|L3|[here](./solution/22)|unknown|
+|23|[외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062)|L3|[here](./solution/23)|unknown|
+|24|[블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063)|L3|[here](./solution/24)|unknown|
+|25|[-](link)|-|[here](./solution/25)|unknown|
 
 
 ## 👪 Contributor
