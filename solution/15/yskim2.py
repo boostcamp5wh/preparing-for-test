@@ -5,13 +5,13 @@ def solution(orders, course, answer=[]):
         combo=ct()
         for order in orders:
             combo += ct(map(lambda x:''.join(sorted(x)), cb(order,j)))
-        combo_rev = {}
+        combo_rev = []
         m=2
         for i,v in combo.most_common():
             if m<=v:
                 m=v
-                combo_rev[v] = combo_rev.get(v,[]) + [i]
+                combo_rev.append(i)
             else:
                 break
-        answer.extend(combo_rev.get(max(combo_rev,default=''),[]))
+        answer.extend(combo_rev)
     return sorted(answer)
