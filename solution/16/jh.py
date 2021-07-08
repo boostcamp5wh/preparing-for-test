@@ -1,18 +1,46 @@
 def solution(info, query):
-    tab_a={'cpp':1, 'java':2, 'python':4, '-':7}
-    tab_b={'backend':1, 'frontend':2,
-           'junior':1, 'senior':2,
-           'chicken':1, 'pizza':2, '-':3}
+    tab_a = {'cpp':0, 'java':1, 'python':2, '-':3}
+    tab_b = {'backend':0, 'frontend':1,
+             'junior':0, 'senior':1,
+             'chicken':0, 'pizza':1, '-':2}
     trans = lambda x: x.replace(' and', '').split()
+    case=[[] for _ in range(4*3*3*3)]
+        
+    for person in info:
+        A, B, C, D, score = trans(person)
+        A, B, C, D, score = tab_a[A], tab_b[B], tab_b[C], tab_b[D], int(score)
+        case[A*27+B*9+C*3+D].append(score)
+        case[3*27+B*9+C*3+D].append(score)
+        case[A*27+2*9+C*3+D].append(score)
+        case[A*27+B*9+2*3+D].append(score)
+        case[A*27+B*9+C*3+2].append(score)
+        case[3*27+2*9+C*3+D].append(score)
+        case[3*27+B*9+2*3+D].append(score)
+        case[3*27+B*9+C*3+2].append(score)
+        case[A*27+2*9+2*3+D].append(score)
+        case[A*27+2*9+C*3+2].append(score)
+        case[A*27+B*9+2*3+2].append(score)
+        case[3*27+2*9+2*3+D].append(score)
+        case[3*27+2*9+C*3+2].append(score)
+        case[3*27+B*9+2*3+2].append(score)
+        case[A*27+2*9+2*3+2].append(score)
+        case[3*27+2*9+2*3+2].append(score)
+        
+
+    case = [sorted(i) for i in case]
     
     answer=[]
-    for q in query:
-        A, B, C, D, E = trans(q)
-        A, B, C, D, E = tab_a[A], tab_b[B], tab_b[C], tab_b[D], int(E)
-        cnt=0
-        for person in info:
-            a, b, c, d, e = trans(person)
-            a, b, c, d, e = tab_a[a], tab_b[b], tab_b[c], tab_b[d], int(e)
-            if A&a and B&b and C&c and D&d and E<=e: cnt+=1
-        answer.append(cnt)
+    for q in query:        
+        A, B, C, D, target = trans(q)
+        A, B, C, D, target = tab_a[A], tab_b[B], tab_b[C], tab_b[D], int(target)
+        
+        idx = A*27+B*9+C*3+D
+        s, e = 0, len(case[idx])-1
+        while 1:
+            if s>e: break
+            mid = (s+e)//2
+            if case[idx][mid]<target: s = mid+1
+            else: e = mid-1
+        answer.append(len(case[idx])-s)
+
     return answer
