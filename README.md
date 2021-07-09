@@ -36,7 +36,14 @@ Repo about preparing for Coding test
 |22|[기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061)|L3|[here](./solution/22)|unknown|
 |23|[외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062)|L3|[here](./solution/23)|unknown|
 |24|[블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063)|L3|[here](./solution/24)|unknown|
-|25|[-](link)|-|[here](./solution/25)|unknown|
+|25|[카드 짝 맞추기](https://programmers.co.kr/learn/courses/30/lessons/72415)|L3|[here](./solution/25)|unknown|
+|26|[매출 하락 최소화](https://programmers.co.kr/learn/courses/30/lessons/72416)|L4|[here](./solution/26)|unknown|
+|27|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|L1|[here](./solution/27)|unknown|
+|28|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|L1|[here](./solution/28)|unknown|
+|29|[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|L2|[here](./solution/29)|unknown|
+|30|[표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303)|L3|[here](./solution/30)|unknown|
+|31|[-](link)|-|[here](./solution/31)|unknown|
+|32|[-](link)|-|[here](./solution/32)|unknown|
 
 
 ## 👪 Contributor
