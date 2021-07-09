@@ -28,7 +28,7 @@ Repo about preparing for Coding test
 |:---|:---|:---:|:---:|:---:|
 |15|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|L2|[here](./solution/15)|Brute Force|
 |16|[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|L2|[here](./solution/16)|Combination|
-|17|[합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)|L3|[here](./solution/17)|unknown|
+|17|[합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413)|L3|[here](./solution/17)|Shortest distance|
 |18|[광고 삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)|L3|[here](./solution/18)|unknown|
 |19|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|L2|[here](./solution/19)|unknown|
 |20|[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|L2|[here](./solution/20)|unknown|
