@@ -7,11 +7,10 @@ def solution(n, s, a, b, fares):
         while q:
             dist, curr = heapq.heappop(q)
             for idx,val in graph[curr].items():
-                if idx not in visit:
-                    if dijk_s.get(idx,float('inf'))>dijk_s.get(curr,0)+graph[curr][idx]:
-                        dist = dijk_s.get(curr,0)+graph[curr][idx]
-                        dijk_s[idx] = dist
-                        heapq.heappush(q, (dist, idx))
+                if (idx not in visit) and (dijk_s.get(idx,float('inf'))>dijk_s.get(curr,0)+graph[curr][idx]):
+                    dist = dijk_s.get(curr,0)+graph[curr][idx]
+                    dijk_s[idx] = dist
+                    heapq.heappush(q, (dist, idx))
                 visit.add(curr)
         return dijk_s
     graph={}
