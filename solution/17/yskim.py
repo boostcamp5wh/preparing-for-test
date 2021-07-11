@@ -1,16 +1,15 @@
-import heapq
+from heapq import *
 def solution(n, s, a, b, fares):
     def dijk(start):
         dijk_s = {start:0}
         visit = set()
         q=[(0, start)]
         while q:
-            dist, curr = heapq.heappop(q)
+            _, curr = heappop(q)
             for idx,val in graph[curr].items():
-                if (idx not in visit) and (dijk_s.get(idx,float('inf'))>dijk_s.get(curr,0)+graph[curr][idx]):
-                    dist = dijk_s.get(curr,0)+graph[curr][idx]
-                    dijk_s[idx] = dist
-                    heapq.heappush(q, (dist, idx))
+                if (idx not in visit) and (dijk_s.get(idx,float('inf'))>dijk_s.get(curr,0)+val):
+                    dijk_s[idx] = dijk_s.get(curr,0)+val
+                    heappush(q, (dijk_s[idx], idx))
                 visit.add(curr)
         return dijk_s
     graph={}
