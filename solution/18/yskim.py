@@ -16,7 +16,7 @@ def solution(play_time, adv_time, logs, answer={}):
                 f=m+1
         return f
     play_time, adv_time = times(play_time), times(adv_time)
-    logs_dict = {'timeline':{0}, 0:0}
+    logs_dict = {'timeline':{0,play_time-adv_time}, 0:0, play_time-adv_time:0}
     for log in logs:
         plus, minus = map(times, log.split('-'))
         logs_dict[plus], logs_dict[minus] = 1, -1
@@ -28,9 +28,9 @@ def solution(play_time, adv_time, logs, answer={}):
         idx += 1
         mans += logs_dict[time]
         if logs_dict[time] != -1:
-            f, l = find(len(logs_dict['timeline'])-1, time), find(len(logs_dict['timeline'])-1, time+adv_time)
+            l = find(len(logs_dict['timeline'])-1, time+adv_time)
             acc, cur_m, cur_t = 0, mans, time
-            for i in range(f,l):
+            for i in range(l):
                 acc, cur_t, cur_m = acc + cur_m*(logs_dict['timeline'][i]-cur_t), logs_dict['timeline'][i], cur_m + logs_dict[logs_dict['timeline'][i]]
             acc += cur_m*(time+adv_time-cur_t)
             if maxi[0] < acc:
