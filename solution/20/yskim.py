@@ -6,6 +6,6 @@ def solution(w):
     if not w:
         return ''
     u,v=w[0:2], w[2:]
-    while sum([(ord(s)-40)*2-1 for s in u]):
+    while sum((ord(s)-40)*2-1 for s in u):
         u,v= u+v[0:2],v[2:]
     return u + solution(v) if right(u) else '('+solution(v)+')'+''.join([chr((ord(s)-40)*40+abs(ord(s)-41)*41) for s in u][1:-1])
