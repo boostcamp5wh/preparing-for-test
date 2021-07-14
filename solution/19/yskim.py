@@ -1,13 +1,8 @@
 def solution(s, answer=[]):
-    ss = [[] for i in range((len(s)//2))]
-    for i in range(1,(len(s)//2)+1):
-        for j in range((len(s)//i)+1):
-            if i*j<len(s):
-                ss[i-1].append(s[j*i:j*i+i])
-    for string in ss:
+    for string in ((s[j*i:j*i+i] for j in range((len(s)//i)+1) if i*j<len(s)) for i in range(1,(len(s)//2)+1)):
         comp=''
-        stack=string[0]
-        cnt=0
+        stack=next(string)
+        cnt=1
         for letter in string:
             if letter!=stack:
                 comp += stack + str(cnt)*(cnt>1)
